@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Ruslan 👋
 
-<!--
-**RusUsf/RusUsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a .NET Developer and AWS Certified Data Engineer based in Sarasota, FL.**
 
-Here are some ideas to get you started:
+Thanks for visiting my GitHub. This is where I store my code, but my main portfolio is a "guided tour" of my best work, including project case studies, published articles, and my PowerShell modules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ➡️ **View My Full Portfolio at: [https://ruslandubas.com](https://ruslandubas.com)**
+
+---
+
+### My Core Skills
+- **Languages:** C#, PowerShell, SQL, R
+- **Databases:** Postgres, SQL Server, T-SQL
+- **Cloud:** AWS (EC2, RDS, S3)
+- **BI & ETL:** Power BI, SSIS
